@@ -1,7 +1,6 @@
 # Overview
 For this project I will be analysing some Ecommerce dataset. The code uses multiple libraries to perform summary statistics,
-data visualisations on the and linear regression to provide insight on whether or not to focus their efforts on their mobile 
-app experience or their website.  
+data visualisations and linear regression to provide insight on whether or not the company should focus their efforts on their mobile app experience or their website.  
 
 # Dependencies
 1. Numpy
