@@ -4,10 +4,10 @@ data visualisations on the and linear regression to provide insight on whether o
 app experience or their website.  
 
 # Dependencies
-Numpy
-Pandas
-Seaborn
-Sklearn
+1. Numpy
+2. Pandas
+3. Seaborn
+4. Sklearn
 
 # The dataset contains the following fields:
 
